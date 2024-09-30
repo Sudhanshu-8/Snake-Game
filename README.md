@@ -20,7 +20,7 @@ This project is a modern Snake Game, designed with a clean and responsive UI. It
 
 🚀 How to Run the Project
 
-    Clone the repository: git clone https://github.com/your-username/snake-game.git
+    Clone the repository: git clone https://github.com/sudhanshu-8/snake-game.git
 
 Open the project folder and run the index.html file in a browser.
 
@@ -31,3 +31,5 @@ Open the project folder and run the index.html file in a browser.
     script.js: JavaScript file that handles game mechanics such as movement, scoring, and snake collision.
     img/: Contains background images and other assets.
         
+Navigate to the project folder:
+cd portfolio
